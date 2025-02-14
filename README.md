@@ -9,15 +9,15 @@ Este repositório contém um script Shell (`calculadora.sh`) que verifica a inst
 ### 🔹 Linux ou WSL (Windows Subsystem for Linux):  
 1. **Dê permissão de execução ao script:**  
    ```bash
-   chmod +x calculadora.sh```
+   chmod +x calculadora.sh
 
 Execute o script:
-
+```bash
 ./calculadora.sh
 
 O script verificará se o Python3 está instalado e, caso não esteja, tentará instalá-lo automaticamente.
 
-##🖥️ Sobre o Código
+## 🖥️ Sobre o Código
 O script Shell (calculadora.sh) executa as seguintes ações:
 
 Verifica se o Python3 está instalado. Caso contrário, tenta instalá-lo.
